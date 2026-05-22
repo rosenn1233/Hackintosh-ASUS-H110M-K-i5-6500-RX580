@@ -1,0 +1,9 @@
+* text=auto eol=lf
+
+*.efi binary
+*.aml binary
+*.dmg binary
+*.chunklist binary
+*.icns binary
+*.png binary
+*.bin binary

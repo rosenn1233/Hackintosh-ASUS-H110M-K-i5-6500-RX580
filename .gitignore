@@ -1,0 +1,14 @@
+# Local logs and generated noise
+*.log
+opencore-*.txt
+panic-*.panic
+.DS_Store
+Thumbs.db
+
+# Private machine identifiers
+SMBIOS-private.*
+serials.*
+gen-smbios.*
+config-private.plist
+config-local.plist
+*.bak
